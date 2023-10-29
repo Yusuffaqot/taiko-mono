@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.24.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.23.0...taiko-mono-v0.24.0) (2023-10-29)
+
+
+### Features
+
+* **bridge-ui-v2:** add title to toast ([#14962](https://github.com/taikoxyz/taiko-mono/issues/14962)) ([91ff244](https://github.com/taikoxyz/taiko-mono/commit/91ff2446dd07354ee88e1357184ba5063bb43db6))
+* **bridge-ui-v2:** Import step refinement ([#15020](https://github.com/taikoxyz/taiko-mono/issues/15020)) ([433fac4](https://github.com/taikoxyz/taiko-mono/commit/433fac4ccfb009a6ceca8ed62d391290744b142c))
+* **bridge-ui-v2:** nft claiming ([#14960](https://github.com/taikoxyz/taiko-mono/issues/14960)) ([b60a7e2](https://github.com/taikoxyz/taiko-mono/commit/b60a7e2a6b7bc09cbb622ad9873d88c158707490))
+* **bridge-ui-v2:** upgrade walletconnect from v2 to v3 ([#14999](https://github.com/taikoxyz/taiko-mono/issues/14999)) ([dd76ddc](https://github.com/taikoxyz/taiko-mono/commit/dd76ddc797d55773ab7647983133ab6a8e8a4192))
+* **pos-dashboard:** Remove pos-dashboard ([#15009](https://github.com/taikoxyz/taiko-mono/issues/15009)) ([87b474f](https://github.com/taikoxyz/taiko-mono/commit/87b474f4c911687e96cfc0073ef3bb6956dc5fdf))
+* **website:** add rhino.fi, Hotpot and DotTaiko to ecosystem ([#15024](https://github.com/taikoxyz/taiko-mono/issues/15024)) ([73cabf3](https://github.com/taikoxyz/taiko-mono/commit/73cabf3db09a63ae32be4e0fe0a62eb9e16f65b5))
+
+
+### Bug Fixes
+
+* fix typos in tests and comments ([#15028](https://github.com/taikoxyz/taiko-mono/issues/15028)) ([54bf597](https://github.com/taikoxyz/taiko-mono/commit/54bf597c89a7f22161eeeffd13c20fe0acb4e2d7))
+* **repo:** fix some typos ([#15021](https://github.com/taikoxyz/taiko-mono/issues/15021)) ([5d5b72d](https://github.com/taikoxyz/taiko-mono/commit/5d5b72d7d53dc93abcc73f8d525a5e7dbfaf903d))
+
 ## [0.23.0](https://github.com/taikoxyz/taiko-mono/compare/taiko-mono-v0.22.0...taiko-mono-v0.23.0) (2023-10-18)
 
 

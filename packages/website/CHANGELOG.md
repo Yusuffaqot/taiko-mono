@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.19.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.18.0...website-v0.19.0) (2023-10-29)
+
+
+### Features
+
+* **website:** add rhino.fi, Hotpot and DotTaiko to ecosystem ([#15024](https://github.com/taikoxyz/taiko-mono/issues/15024)) ([73cabf3](https://github.com/taikoxyz/taiko-mono/commit/73cabf3db09a63ae32be4e0fe0a62eb9e16f65b5))
+
 ## [0.18.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.17.0...website-v0.18.0) (2023-10-18)
 
 
